@@ -6,6 +6,7 @@
     <modules>
         <module>domain</module>
         <module>rest</module>
+        <module>repo</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
